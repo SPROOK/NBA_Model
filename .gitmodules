@@ -1,0 +1,3 @@
+[submodule "Data/nba_data"]
+	path = Data/nba_data
+	url = https://github.com/shufinskiy/nba_data.git
